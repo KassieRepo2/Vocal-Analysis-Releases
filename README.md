@@ -1,25 +1,32 @@
-# Welcome to the Vocal Analysis release page!
+#  Welcome to the Vocal Analysis Release Page!
 
-### About me:
-  - I am a current student at University of Washington. I am working towards my Bachelors of Science for Software Engineering.
-  - I have been programming actively for about 4 years now!
-  - I am a member of the LGBTQIA+ community (I am the T and the B).
-  - My goal with this project is to help me and any trans person that feels the need to voice train, with their voice training.
+## About Me
+- I’m a current student at the **University of Washington**, working toward a **Bachelor of Science in Software Engineering**.
+- I’ve been actively programming for about **4 years**.
+- I’m a proud member of the **LGBTQIA+ community** (the **T** and the **B**).
+- This project started as something I built for myself, and grew into something I hope can help **any trans person who feels the need to voice train**.
 
-### About this project:
-  - There is so much information out there for anyone to parse through, with no way of knowing whether you are correctly doing something,
-    you could end up feeling overwhelmed or defeated.
-  - This application is designed to give you some feedback on how you are doing in hopes that with you being able to see your progress,
-    vocal training wouldn't feel so overwhelming.
+## About the Project
+- There’s an overwhelming amount of voice training information out there, and very little guidance on whether you’re actually doing things *correctly*.
+- Without feedback, it’s easy to feel lost, discouraged, or unsure of your progress.
+- **Vocal Analysis** is designed to give you clear, actionable feedback so you can:
+  - Track your progress over time
+  - Understand how your voice is changing
+  - Feel more confident and less overwhelmed during training
 
-### Contact me:
-  - If you have any questions feel free to email me!
-  - VocalAnalysisDev@gmail.com
+The goal isn’t perfection, it’s **clarity, encouragement, and measurable progress**.
 
-### Installation instructions:
-  - Prior to installing the application be sure to install python 3.13 from the microsoft store directly.
-  - After installing python, install the app, and enjoy!
-  - If you need help with any installations be sure to email me with the email in the Contact Me section.
+## Contact Me
+- If you have questions, feedback, or run into issues, feel free to reach out!
+- **VocalAnalysisDev@gmail.com**
+
+## Installation Instructions
+1. Before installing the application, please install **Python 3.13** directly from the **Microsoft Store**.
+2. Once Python is installed, install the application and you’re good to go.
+3. If you need help at any point, don’t hesitate to email me using the address above.
+
+---
 
 ## Happy training!
 #### - KassIsHere
+
