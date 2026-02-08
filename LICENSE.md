@@ -110,4 +110,5 @@ This Agreement shall be governed by and construed in accordance with the laws of
 This Agreement constitutes the entire agreement between you and the Licensor regarding the Software and supersedes all prior agreements or understandings.
 
 ---
+
 **The Licensor reserves the right to modify the terms of this Agreement for future versions or releases of the Software.**
