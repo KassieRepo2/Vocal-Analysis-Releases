@@ -30,3 +30,9 @@ The goal isn’t perfection, it’s **clarity, encouragement, and measurable pro
 ## Happy training!
 #### - KassIsHere
 
+<img width="282" height="244" alt="image" src="https://github.com/user-attachments/assets/9ffc7c03-d23c-4f40-b33c-536bd05af952" /> <img width="410" height="263" alt="image" src="https://github.com/user-attachments/assets/a9cef34f-e72f-487d-a41a-8356c12e1e21" />
+
+<img width="247" height="183" alt="image" src="https://github.com/user-attachments/assets/f639cab3-df74-4396-b479-229ec85fbcdc" />
+
+
+<img width="4791" height="236" alt="image" src="https://github.com/user-attachments/assets/8cff7f04-9c7f-42e4-ab29-c5a266eac321" />
