@@ -43,6 +43,7 @@ JavaFX UI → Python analysis pipeline → SQLite persistence → Matplotlib cha
 
 
 <img width="1791" height="436" alt="image" src="https://github.com/user-attachments/assets/8cff7f04-9c7f-42e4-ab29-c5a266eac321" />
+
 ---
 
 ## About Me
