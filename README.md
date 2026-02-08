@@ -46,7 +46,7 @@ JavaFX UI → Python analysis pipeline → SQLite persistence → Matplotlib cha
 ---
 
 ## About Me
-I’m a University of Washington student studying Software Engineering. I built this initially for myself and expanded it to help others who want clearer feedback while vocal training. I am also a member of the LBTQIA+ (I am the T and the B). 
+I’m a University of Washington student studying Software Engineering. I originally built this application for myself, then expanded it to help others who want clearer, more actionable feedback while voice training. I’m also part of the LGBTQIA+ community (I’m the T and the B), and I’m passionate about building technology that supports and uplifts my community.
 
 ---
 
