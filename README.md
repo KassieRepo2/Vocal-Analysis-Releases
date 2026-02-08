@@ -5,7 +5,7 @@
 **Tech:** Java, JavaFX, Python, SQLite, pandas, NumPy, Matplotlib, scikit-learn  
 **Source:** Currently private. This repository hosts public releases, screenshots, and documentation.
 
-**Download:** Get the latest installer from **Releases**.
+**Download:** Get the latest installer from [**Releases**](https://github.com/KassieRepo2/Vocal-Analysis-Releases/releases).
 
 **Privacy:** Audio is processed locally; nothing is uploaded.
 
