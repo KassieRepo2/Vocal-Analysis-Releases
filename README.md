@@ -11,7 +11,12 @@
 
 ---
 
-## Installation (Windows)
+## Installation (Windows) (v0.5.0-alpha +) (Latest release)
+1. Download the application from the latest release.
+2. Install the application.
+3. Launch the app and follow the on-screen prompts.
+
+## Installation (Windows) (V0.4.6-alpha)
 1. Install Python 3.13 from the Microsoft Store (free and simple to install). Bundled Python is in progress.
 2. Install the application from the latest release.
 3. Launch the app and follow the on-screen prompts.
