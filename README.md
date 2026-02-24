@@ -29,7 +29,8 @@ Need help? Email: **VocalAnalysisDev@gmail.com**
 Vocal Analysis is designed to give clear, actionable feedback so you can:
 - Track your progress over time
 - Understand how your voice is changing
-- Feel more confident and less overwhelmed during training
+- Feel more confident in your voice and less overwhelmed during training
+- Get a sense on how your voice may be gendered by others
 
 ## Key features
 - Record audio or import an existing file
