@@ -11,7 +11,7 @@
 
 ---
 
-## Installation (Windows) (v0.5.0-alpha +) (Latest release)
+## Installation (Windows) (v0.5.2-alpha +) (Latest release)
 1. Download the application from the latest release.
 2. Install the application.
 3. Launch the app and follow the on-screen prompts.
